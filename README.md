@@ -1,13 +1,13 @@
 # steelpredict
 
-###django for steelpredict project    
+###django for steelpredict project### 
 
 installation  
 ```
 git clone https://github.com/jemmy9211/steelpredict.git
 ```
 
-####local site must have python,django environment
+####local site must have python,django environment####
 after clone this project,cd into steelpredict  
 and enter the following command in terminal  
 
