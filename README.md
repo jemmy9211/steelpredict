@@ -15,7 +15,7 @@ and enter the following command in terminal
 ```
 python manage.py runserver
 ```
-*** server would run at http://127.0.0.1:8000/ 
+** server would run at http://127.0.0.1:8000/ 
 ![s](./screen.jpg)
 
 因為看不太懂模型檔案的結構，因此還沒將模型的檔案導入XD  
